@@ -2,7 +2,7 @@
 title: "About me"
 ---
 
-#About this site
+# About this site
 
 This is my personal website
 
@@ -14,7 +14,7 @@ MSc, Drug Discovery & Development — University College London
 
 BA, Pharmacology — University of Melbourne
 
-#Research Skills:
+# Research Skills:
 
 Cell Biology
 
